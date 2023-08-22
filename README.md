@@ -2,7 +2,7 @@
 ## Hi there 👋
 ## My name is Dmitry, and a QA Engineer
 ## My CV
-[Link to my CV](https://spb.hh.ru/resume/3e32d3e6ff0c45e9aa0039ed1f534f77365574/)
+[Link to my CV](...)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
