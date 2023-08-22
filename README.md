@@ -20,11 +20,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/kybo002/checklist)
+- [Test-Suites and Test-Cases](https://github.com/kybo002/test-cases)
+- [Bug-Reports](https://github.com/kybo002/bug-reports)
+- [SQL Queries](https://github.com/kybo002/SQL)
+- [Postman Collections](https://github.com/kybo002/postman)
 
 ### Contact 
 - [VK](https://vk.com/id285233338/)
