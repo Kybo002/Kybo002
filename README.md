@@ -30,7 +30,7 @@
 - [VK](https://vk.com/id285233338/)
 - [Telegram](https://t.me/ecskybo/)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kybo002&show_icons=true&theme=radical)
 
 <!--
 **Kybo002/Kybo002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
