@@ -26,6 +26,15 @@
 - [SQL Queries](https://github.com/kybo002/SQL)
 - [Postman Collections](https://github.com/kybo002/postman)
 
+### Yandex Practicum
+
+- [1 - Спринт](https://github.com/kybo002/checklist)
+- [2 - Спринт](https://github.com/kybo002/test-cases)
+- [3 - Спринт](https://github.com/kybo002/bug-reports)
+- [4 - Спринт](https://github.com/kybo002/SQL)
+- [5 - Спринт](https://github.com/kybo002/postman)
+- [Диплом](https://github.com/kybo002/postman)
+
 ### Contact 
 - [VK](https://vk.com/id285233338/)
 - [Telegram](https://t.me/ecskybo/)
