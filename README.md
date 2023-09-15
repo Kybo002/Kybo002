@@ -28,11 +28,11 @@
 
 ### Yandex Practicum
 
-- [1 - Спринт](https://github.com/kybo002/checklist)
-- [2 - Спринт](https://github.com/kybo002/test-cases)
-- [3 - Спринт](https://github.com/kybo002/bug-reports)
-- [4 - Спринт](https://github.com/kybo002/SQL)
-- [5 - Спринт](https://github.com/kybo002/postman)
+- [1 - Спринт](https://github.com/Kybo002/one_sprint)
+- [2 - Спринт](https://github.com/Kybo002/two_sprint)
+- [3 - Спринт](https://github.com/Kybo002/three_sprint)
+- [4 - Спринт](https://github.com/Kybo002/four_sprint)
+- [5 - Спринт](https://github.com/Kybo002/five_sprint)
 - [Диплом](https://github.com/kybo002/postman)
 
 ### Contact 
