@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Kybo002/Kybo002/main/assets/new.jpg)
+![Header](https://sun9-4.userapi.com/impg/paKxqH2kYeUXT3KF4hvP3tuWlytz8_nk30O3lQ/RFkSLdvA38o.jpg?size=960x384&quality=95&crop=0,31,1332,532&sign=5a814629a650f8abd43a9fbcdc16c0dd&c_uniq_tag=D7exoY6EAi3R98eZInLpInFinhjd2NWCccqpLEps8GI&type=helpers)
 ## Hi there 👋
 ## My name is Dmitry, and a QA Engineer
 ## My CV
