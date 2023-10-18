@@ -38,6 +38,7 @@
 ### Тестовые задания
 
 - [Тестовое для команды BlackBears](https://github.com/Kybo002/BlackBearstest)
+- [Тестовое для Yandex на вакансию "Стажер тестировщик"](https://github.com/Kybo002/yandexqatest)
 
 
 ### Contact 
