@@ -35,6 +35,11 @@
 - [5 - Спринт](https://github.com/Kybo002/five_sprint)
 - [Диплом](https://github.com/kybo002/postman)
 
+### Тестовые задания
+
+- [Тестовое для команды BlackBears](https://github.com/Kybo002/BlackBearstest)
+
+
 ### Contact 
 - [VK](https://vk.com/id285233338/)
 - [Telegram](https://t.me/ecskybo/)
